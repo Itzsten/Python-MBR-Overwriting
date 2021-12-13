@@ -7,5 +7,5 @@ To overwrite it with custom hex, add a new line:
 ```python
 data = bytes([ paste hex here... ])
 
-WriteFile(handle, data, ...)
+WriteFile(hDevice, data, None)
 ```
