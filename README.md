@@ -9,3 +9,5 @@ data = bytes([ paste hex here... ])
 
 WriteFile(hDevice, data, None)
 ```
+# Disclaimer
+This code is provided for educational purposes. I do not account for damage issued using this.
